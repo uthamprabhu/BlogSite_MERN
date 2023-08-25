@@ -1,5 +1,5 @@
 node_modules
 credentials.json
 build
-/.env
-/prod-env.yaml
+server\.env
+server\prod-env.yaml
